@@ -38,7 +38,7 @@ public class Main {
         rentalSystem.addToInventory(motorcycle5.getVehicleID(), motorcycle5);
 
         // Menu for user to start rental (Option menu)
-        System.out.println("Welcome to Vikram's premium rentals! Choose one of the following options to continue:");
+        System.out.println("Welcome to Priya's premium rentals! Choose one of the following options to continue:");
         // Main menu
         while (true) {
             System.out.println("1. Rent a Vehicle"); // Option to rent vehicle
