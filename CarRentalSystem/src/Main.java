@@ -1,4 +1,4 @@
-// Imports
+// Vehicle Rental System Project
 
 import java.util.Scanner;
 
